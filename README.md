@@ -1,0 +1,1 @@
+Hi Dude. I set up my bot for security, not entertainment. He is currently using logs and logging and it blocks spams/raids. Oh btw when you roll the dice and lose you can send !f clear and delete the messages. :D
