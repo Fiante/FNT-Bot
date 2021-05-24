@@ -1,0 +1,5 @@
+@tasks.loop(seconds=0)
+async def fiante():
+    for c in Bot.get_all_channels():
+        if c.id == copy ur channel id 
+            await c.send('FNT Bot by Fiante')
